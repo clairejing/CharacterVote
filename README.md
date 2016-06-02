@@ -1,3 +1,3 @@
 # CharacterVote
 
-This project uses  React, Node.js, MongoDB, Socket.IO.
+This project uses  React, Node.js(Express), MongoDB, Socket.IO.
