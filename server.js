@@ -1,7 +1,13 @@
-let express = require('express');
+/*let express = require('express');
 let path = require('path');
 let logger = require('morgan');
 let bodyParser = require('body-parser');
+*/
+import express from 'express';
+import path from 'path';
+import logger from 'morgan';
+import bodyParser from 'body-parser';
+
 
 let app = express();
 
